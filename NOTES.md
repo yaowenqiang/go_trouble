@@ -5,3 +5,8 @@
 > https://go-proverbs.github.io
 
 
+> nl -ba main.go
+
++ Don't panic
++ Don't ignore errors
+
