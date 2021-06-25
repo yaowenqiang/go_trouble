@@ -13,3 +13,5 @@
 > docker run -d -rm -e POSTGRES_USER=gopher -e POSTGERS_PASSWORD=rdbmsftw --name db -p 5432:5432 postgres:10.3-alphine
 > docker exec -it db psql -U gopher -w
 > select * from contacts;
+
+> wtch -p -n 1 free -m
