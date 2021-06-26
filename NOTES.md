@@ -15,3 +15,11 @@
 > select * from contacts;
 
 > wtch -p -n 1 free -m
+> from time import sleep # python
+> time sleep 1 # bash
+
+> date +%I:%M:%S
+
+> from datetime import datetime
+> print datetime.now().strftime("%I:%M:%S")
+> print datetime.now().strftime("%H:%M:%S")
